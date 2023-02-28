@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;600&display=swap");
+
+body {
+    background-color: white;
+    font-family: "Public Sans", sans-serif;
+    color: #495057;
+    font-size: 14px;
+}
+
+a {
+    color: #3b7ddd;
+}
+.sidebar-dark-primary {
+    background-color: #222e3c;
+}
+.nav-link i {
+    color: #818891;
+}
+.nav-link p {
+    color: #818891;
+}
+
+.btn-primary {
+    background-color: #3b7ddd;
+}
+
+.active {
+    color: #fff;
+    background: linear-gradient(
+        90deg,
+        rgba(37, 54, 76, 1) 0%,
+        rgba(34, 46, 60, 1) 100%
+    );
+    border-left: 5px solid #3b7ddd;
+}
+
+.active p {
+    color: #fff;
+}
+.active i {
+    color: #fff;
+}
+
+.child-active {
+    background-color: #495057;
+}
+.child-active p {
+    color: #fff;
+}
+
+.child-active i {
+    color: #fff;
+}
